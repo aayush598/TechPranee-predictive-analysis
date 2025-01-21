@@ -29,8 +29,8 @@ To set up and run the API, follow these steps:
 ### Step 1: Clone the repository
 
 ```bash
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/aayush598/TechPranee-predictive-analysis.git
+cd TechPranee-predictive-analysis
 ```
 
 ### Step 2: Create a virtual environment
